@@ -7,4 +7,12 @@ class Program
         //set up base for application here 
         //main/ master branch. upload to github
     }
+    static void Sayhello()
+    {
+        System.Console.WriteLine("Hello!");
+    }
+    static void SayBye()
+    {
+        System.Console.WriteLine("Bye");
+    }
 }
